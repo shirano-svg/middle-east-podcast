@@ -9,5 +9,14 @@
     <itunes:author>Middle East News</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+  
+    <item>
+      <title>中東ニュース 2026年04月27日</title>
+      <description><![CDATA[2026年04月27日の中東ニュースまとめ。取得記事数: 20本。]]></description>
+      <enclosure url="https://github.com/shirano-svg/middle-east-podcast/releases/download/ep-20260427/ep-20260427.mp3" length="2305101" type="audio/mpeg"/>
+      <guid isPermaLink="false">5bd7a8d63ceda9e98e4e73a1a6f3f884</guid>
+      <pubDate>Mon, 27 Apr 2026 03:09:39 GMT</pubDate>
+      <itunes:duration>672</itunes:duration>
+    </item>
   </channel>
 </rss>
