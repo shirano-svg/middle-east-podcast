@@ -9,6 +9,10 @@
     <itunes:author>Middle East News</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://shirano-svg.github.io/middle-east-podcast/cover.jpg</url>
+    </image>
+    <itunes:image href="https://shirano-svg.github.io/middle-east-podcast/cover.jpg"/>
   
     <item>
       <title>中東ニュース 2026年04月27日</title>
