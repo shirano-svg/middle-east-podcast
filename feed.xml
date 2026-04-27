@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>中東ニュース Weekly</title>
+    <link>https://shirano-svg.github.io/middle-east-podcast</link>
+    <description>中東の最新ニュースを日本語でお届けするプライベートポッドキャスト</description>
+    <language>ja</language>
+    <itunes:author>Middle East News</itunes:author>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+  </channel>
+</rss>
