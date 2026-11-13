@@ -15,6 +15,15 @@
     <itunes:image href="https://shirano-svg.github.io/middle-east-podcast/cover.jpg"/>
   
     <item>
+      <title>中東ニュース 2026年11月13日</title>
+      <description><![CDATA[2026年11月13日の中東ニュースまとめ。取得記事数: 20本。]]></description>
+      <enclosure url="https://shirano-svg.github.io/middle-east-podcast/audio/ep-20261113.mp3" length="1852557" type="audio/mpeg"/>
+      <guid isPermaLink="false">e0e88ed137db72129100c792b9e7c2d4</guid>
+      <pubDate>Fri, 13 Nov 2026 02:00:02 GMT</pubDate>
+      <itunes:duration>533</itunes:duration>
+    </item>
+
+    <item>
       <title>中東ニュース 2026年11月06日</title>
       <description><![CDATA[2026年11月06日の中東ニュースまとめ。取得記事数: 20本。]]></description>
       <enclosure url="https://shirano-svg.github.io/middle-east-podcast/audio/ep-20261106.mp3" length="2084109" type="audio/mpeg"/>
